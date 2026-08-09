@@ -1,0 +1,1 @@
+# No external dependencies for MVP. Using Python 3.10+ standard library.
